@@ -1,0 +1,8 @@
+Work Distribtution
+
+Affan:  1) Worked on Design and structure and calculations for CubeSat Project
+        2) Created the prompt for generating a good astronomy shot
+
+Shreya: 1) worked on materials for the CubeSAT as well as finalizing design
+
+Prathamesh: 1) worked on the Data Science task by using Pandas and MatPlotlib to answer the respective problem statements
