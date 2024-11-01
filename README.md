@@ -9,5 +9,7 @@ Approaching the design by requirements, which sensors are required and how its g
 Task 3: 
 Hit and Trial :P
 
-https://www.canva.com/design/DAGVNQfVPMI/mM5cVz48NecZIrxNssCDPw/view?utm_content=DAGVNQfVPMI&utm_campaign=designshare&utm_medium=link&utm_source=editor
 Canva Link for Presentation
+
+https://www.canva.com/design/DAGVNQfVPMI/mM5cVz48NecZIrxNssCDPw/view?utm_content=DAGVNQfVPMI&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
